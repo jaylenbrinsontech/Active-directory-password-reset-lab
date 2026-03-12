@@ -85,8 +85,7 @@ Simulated real IT support scenario:
 New Password Used in Lab:
 `Test123!`
 
-📷 Screenshot:
-(Add screenshot of password reset window)
+![image alt](https://github.com/jaylenbrinsontech/Active-directory-password-reset-lab/blob/34881b15a6ebcacd6f65744dc1a9b8087fb54196/Screenshot%20(52).png)
 
 📷 Screenshot:
 (Add screenshot of successful login after password reset)
