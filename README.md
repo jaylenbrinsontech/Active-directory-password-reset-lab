@@ -66,8 +66,7 @@ Example:
 Username: `lab\testuser`
 Password: (assigned password)
 
-📷 Screenshot:
-(Add screenshot of domain user login screen)
+![image alt](https://github.com/jaylenbrinsontech/Active-directory-password-reset-lab/blob/92a7fc38ad894a2b5de43b3437e9652f06b8b134/Screenshot%20(55).png)
 
 ---
 
