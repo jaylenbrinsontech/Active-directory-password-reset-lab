@@ -54,9 +54,7 @@ This project simulates a real-world IT Help Desk scenario where an administrator
 - Joined client machine to domain `lab.local`
 - Restarted system to apply domain changes
 
-📷 Screenshot:
-(Add screenshot of system joined to domain)
-
+![image alt](https://github.com/jaylenbrinsontech/Active-directory-password-reset-lab/blob/ec774d4d27b05504041e7d0742fb8a62805f1b5c/Screenshot%202026-03-11%20183202.png)
 ---
 
 ### 4️⃣ Domain User Login Test
