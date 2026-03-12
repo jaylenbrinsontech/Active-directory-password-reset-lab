@@ -31,7 +31,7 @@ This project simulates a real-world IT Help Desk scenario where an administrator
 - Promoted server to Domain Controller
 - Created domain: `lab.local`
 
-📷 Screenshot:
+📷 Screenshot:![image alt]([image_url](https://github.com/jaylenbrinsontech/Active-directory-password-reset-lab/blob/180ddd95a2004e0303c2d4e34eb8fb61f3a029f2/server-domain-controller.png.png))
 (Add screenshot of Server Manager and Domain Controller confirmation here)
 
 ---
