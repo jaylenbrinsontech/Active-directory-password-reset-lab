@@ -43,7 +43,7 @@ This project simulates a real-world IT Help Desk scenario where an administrator
 - Created domain users
 - Verified users appear in ADUC
 
-![image alt](https://github.com/jaylenbrinsontech/Active-directory-password-reset-lab/blob/d2440b6dd5e7ee06963cf1eea214fde3a0ddbbe4/Screenshot%202026-03-11%20183202.png)
+![image alt](https://github.com/jaylenbrinsontech/Active-directory-password-reset-lab/blob/99ba68a449bfc8665b155f40177956a0f113c335/Screenshot%20(49).png)
 
 ---
 
