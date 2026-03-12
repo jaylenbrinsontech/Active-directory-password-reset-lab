@@ -87,9 +87,7 @@ New Password Used in Lab:
 
 ![image alt](https://github.com/jaylenbrinsontech/Active-directory-password-reset-lab/blob/34881b15a6ebcacd6f65744dc1a9b8087fb54196/Screenshot%20(52).png)
 
-📷 Screenshot:
-(Add screenshot of successful login after password reset)
-
+![image alt](https://github.com/jaylenbrinsontech/Active-directory-password-reset-lab/blob/7b7096b42e52031bdcbaadc3f35fb06af16328ec/Screenshot%20(56).png)
 ---
 
 ## 🎯 Skills Demonstrated
